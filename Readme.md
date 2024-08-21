@@ -17,3 +17,23 @@
 # 5.Program in C++ to check if a number is palindrome or not using control statements
 
 ![image](https://github.com/user-attachments/assets/db7c503d-8335-4f62-8a40-f4eb5706afa4)
+
+# 6.Swap two numbers using temporary variable
+
+![image](https://github.com/user-attachments/assets/cfd1c842-a9ab-4821-a678-b88dfea73ca7)
+
+# 7.Swap two numbers without using temporary variable
+
+![image](https://github.com/user-attachments/assets/ec5c939b-3615-43f5-a73a-60cda203c934)
+
+# 8.Check Vowel or a Consonant Manually
+
+![image](https://github.com/user-attachments/assets/a6ee2932-83c8-4d0b-a6ec-59be532aee16)
+
+# 9.Largest Number
+
+![image](https://github.com/user-attachments/assets/d7b3b7be-e96f-498a-aee6-a0f763ecd6a4)
+
+# 10.Leap Year or not
+
+![image](https://github.com/user-attachments/assets/f6856554-0843-4a32-add2-592e6e783901)
