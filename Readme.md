@@ -37,3 +37,33 @@
 # 10.Leap Year or not
 
 ![image](https://github.com/user-attachments/assets/f6856554-0843-4a32-add2-592e6e783901)
+
+# 11. Find the Square Root of a Number Using `IF-ELSE` Statement
+![image](https://github.com/user-attachments/assets/b9f08814-9fd4-4afb-8b38-30b82510db5d)
+
+# 12. Find the Cube Root of a Number Using Conditional Statements
+![image](https://github.com/user-attachments/assets/e1c2d7fa-9b36-47f8-8598-62d732259171)
+
+# 13. Check if a Number is Perfect Using `IF` Condition
+![image](https://github.com/user-attachments/assets/a3cc92cb-0a76-4d39-a004-f01d727cd080)
+
+# 14. Check if a Number is Perfect Using `IF-ELSE` Condition
+![image](https://github.com/user-attachments/assets/87d6dfd9-2f78-4296-be02-bd779b09de5f)
+
+# 15. Find the Smallest Element Missing in a Sorted Array Using `WHILE` Loop
+![image](https://github.com/user-attachments/assets/14c2c1a4-d2b1-4a52-92a9-2d7ec595138d)
+
+# 16. Find the Sum of `n` Natural Numbers Using `FOR` Loop
+![image](https://github.com/user-attachments/assets/9b0275e5-7ebb-4e95-b4c3-648333b615c6)
+
+# 17. Find the Sum of `n` Natural Numbers Using `WHILE` Loop
+![image](https://github.com/user-attachments/assets/217e3890-0982-4597-9681-290da8cdf404)
+
+# 18. Find the Sum of `n` Natural Numbers Using `DO-WHILE` Loop
+![image](https://github.com/user-attachments/assets/cf5f5dc6-8400-47ca-92d1-93b89b45736f)
+
+# 19. Check if a Number is Perfect Using `FOR` Loop Condition
+![image](https://github.com/user-attachments/assets/b8ce733f-3f78-4232-81e5-645c9269b45b)
+
+# 20. Check if a Number is Perfect Using `WHILE` Loop Condition
+![image](https://github.com/user-attachments/assets/b0d89363-243f-41fd-b4fa-3f40417216cc)
