@@ -103,3 +103,18 @@
 
 # 32. Armstrong Number
 ![image](https://github.com/user-attachments/assets/a054fd00-bd69-4b4c-8f33-226fd0f78360)
+
+# 33. Default Arguments
+![image](https://github.com/user-attachments/assets/b1946ebf-bb80-4b25-aa1e-b0e90f31bd26)
+
+# 34. Valid Username or not
+![image](https://github.com/user-attachments/assets/b99294b4-445e-4d15-af06-618f11ef7aaa)
+
+# 35. Voting Elligibility
+![image](https://github.com/user-attachments/assets/a4045e49-4367-4c57-a0ab-1b260592209c)
+
+# 36. Simple Interest
+![image](https://github.com/user-attachments/assets/35ed70d9-14e6-4e4a-906c-18ae79f75532)
+
+# 37. Palindrome string
+![image](https://github.com/user-attachments/assets/3865758e-cc71-475d-8d5a-15e1aa1881f7)
