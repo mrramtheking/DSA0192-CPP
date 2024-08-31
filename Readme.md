@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9d52d25b-d8eb-460e-9ead-7ed7a4bfa28c)# 1.Program to convert a string into upper or lower case in C++  using classes
+# 1.Program to convert a string into upper or lower case in C++  using classes
 
 ![image](https://github.com/user-attachments/assets/ff1afdff-d97b-480d-9ffb-0c6e2547ec84)
 
