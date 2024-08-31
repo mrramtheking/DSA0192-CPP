@@ -1,4 +1,4 @@
-# 1.Program to convert a string into upper or lower case in C++  using classes
+![image](https://github.com/user-attachments/assets/9d52d25b-d8eb-460e-9ead-7ed7a4bfa28c)# 1.Program to convert a string into upper or lower case in C++  using classes
 
 ![image](https://github.com/user-attachments/assets/ff1afdff-d97b-480d-9ffb-0c6e2547ec84)
 
@@ -118,3 +118,100 @@
 
 # 37. Palindrome string
 ![image](https://github.com/user-attachments/assets/3865758e-cc71-475d-8d5a-15e1aa1881f7)
+
+# 38. Default Arguments
+![image](https://github.com/user-attachments/assets/2c3cd807-9a1a-4b7a-a942-e7ff00c98b27)
+
+# 39. Function Overloading 
+![image](https://github.com/user-attachments/assets/ab4cc3cb-2d4e-4448-806b-66505a4dd854)
+
+# 40. Printing Length and width of a box
+![image](https://github.com/user-attachments/assets/78b97653-69f4-42dc-8080-1381a7065ddd)
+
+# 41. Matrix Multiplication
+![image](https://github.com/user-attachments/assets/588aa495-0279-43cf-8bb4-6d88c5c203bb)
+
+# 42. Count number of Objects
+![image](https://github.com/user-attachments/assets/c5b950d5-ddc3-4c3e-be6b-7ae9d149d4ad)
+
+# 43. Arithmetic Operations using Switch Case
+![image](https://github.com/user-attachments/assets/37a29d54-92d8-4c5d-8968-9b5d936cbf59)
+
+# 44. Employee class with derived Class
+![image](https://github.com/user-attachments/assets/60f81023-773e-4290-a649-2ecce78d0e86)
+
+# 45. Remove Duplicates from Sorted Array
+![image](https://github.com/user-attachments/assets/e5c7bd57-c7db-4f0a-b691-05202e010339)
+
+# 46. Student Grade Calculation
+![image](https://github.com/user-attachments/assets/3ae669e8-6548-4af3-af60-1bdf458832d5)
+
+# 47. Largest Class
+![image](https://github.com/user-attachments/assets/4c0c878d-96c5-4808-b86b-41891cdcbcaf)
+
+# 48. Multiplication Table
+![image](https://github.com/user-attachments/assets/41a9b550-17bf-489d-b0b0-256a1cccdacd)
+
+# 49. Largest among 3 numbers
+![image](https://github.com/user-attachments/assets/460d514f-93aa-4af7-ac12-60bb79ac7a19)
+
+# 50. Reverse a number
+![image](https://github.com/user-attachments/assets/4ed101bb-074d-413a-bb8c-ad96c5576b17)
+
+# 51. Multiply two floating numbers
+![image](https://github.com/user-attachments/assets/99141fb2-ca54-449c-b702-a7573a39f7e7)
+
+# 52. Size of int, char, float and double
+![image](https://github.com/user-attachments/assets/cf74daa1-ba85-40f2-9ba8-0416fd56512f)
+
+# 53. Swapping a number using CallByRefernece & CallByValue
+![image](https://github.com/user-attachments/assets/52842c90-fa25-4060-8d71-b19bf679033d)
+
+# 54. Class Series with input() and show() to print Fibonacci series
+![image](https://github.com/user-attachments/assets/d96f1e27-053c-4453-a802-9041ab340387)
+
+# 55. Computing student grade using classes
+![image](https://github.com/user-attachments/assets/bd8f7743-75fd-432d-88ff-8211e01a8841)
+
+# 56. Binary Operator overloading
+![image](https://github.com/user-attachments/assets/7c55c6c6-e8a7-4bac-862b-8ff8ae84fe15)
+
+# 57. Calculate income tax of an employee
+![image](https://github.com/user-attachments/assets/44f88e24-62f6-4c3e-93d7-017b055cebc9)
+
+# 58)display cube number using destructor
+![image](https://github.com/user-attachments/assets/6ad3d3fb-3ec6-4c9d-8ba6-3f38a14c5904)
+
+# 59)cube of  the number using constructor
+![image](https://github.com/user-attachments/assets/8a063c05-9b3d-431c-b8d7-9fda86536b82)
+
+# 60)cube root of the number using destructor
+![image](https://github.com/user-attachments/assets/f66badf2-7219-4c80-a732-81bcfbe2015b)
+
+# 61)sum of series using constructor overloading 
+# 62)repeated numbers right triangle 
+# 63)reverse a number using constructor overloading
+# 64)sum of two prime numbers
+# 65)binary to octal conversion using constructor
+# 66)sum of all integers between 100 to 200 divisible by 9
+# 67)repeated numbers right triangle 
+# 68)area of circle, rectangle, triangle
+# 69)area of the cylinder, cube
+# 70) Program to declare the constructor inside the class, and then define it outside of the class by specifying the name of the class.
+# 71)Floyds triangle using constructor and destructor
+# 72)Decimal to binary in array using constructor
+# 73)create a class for students if no name passed then unknown should be print 
+# 74)class for rectangle then calculate area by the given parameters
+# 75)add amount piggie bank
+# 76)area of square and rectangle using function overloading
+# 77)addition of two numbers using function overloading 
+# 78)to read and print students simple inheritance
+# 79)demonstrate private simple inheritance
+# 80)multiple inheritance
+# 81)address of the variable
+# 82)square and circle using abstract class and pure virtual function 
+# 83)illustrate how to use this pointer
+# 84)address of each element in the array
+# 85)multiple inheritance of sum of two numbers 
+# 86)find the area of multiple rectangles using array object concept
+# 87)print values using pointer
