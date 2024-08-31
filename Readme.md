@@ -293,7 +293,10 @@
 # 95)employee salary using  hybrid inheritance
 ![image](https://github.com/user-attachments/assets/5923bd97-a4e8-41ba-86c5-91fd3c84023b)
 
-# 96.
+# 96. Sort in ascending using pointer
+![image](https://github.com/user-attachments/assets/873eeac1-b584-430d-87f5-fd198def55bc)
 
-# 97.
+# 97. Patient Details using inheritance
+![image](https://github.com/user-attachments/assets/1d8f84d7-db25-4841-bce2-09a960e7056c)
+
 
