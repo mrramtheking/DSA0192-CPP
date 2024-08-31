@@ -204,32 +204,68 @@
 ![image](https://github.com/user-attachments/assets/8c1576e0-7b65-45e0-9477-6239b99bacbd)
 
 # 66)sum of all integers between 100 to 200 divisible by 9
-![Uploading image.png…]()
+![Screenshot (815)](https://github.com/user-attachments/assets/67254801-41ca-477d-801f-f37df9b5383f)
 
 # 67)repeated numbers right triangle 
-![Uploading image.png…]()
+![Screenshot (816)](https://github.com/user-attachments/assets/caf36d84-0987-4946-aafd-974eafac6221)
 
 # 68)area of circle, rectangle, triangle 
-![Uploading image.png…]()
+![Screenshot (817)](https://github.com/user-attachments/assets/baf27ed8-5c52-42de-bb41-cb7b8a47209d)
 
 # 69)area of the cylinder, cube
-![Uploading image.png…]()
+![Screenshot (818)](https://github.com/user-attachments/assets/e8872a14-76f2-41a8-9449-96e564c6d2fe)
 
 # 70) Program to declare the constructor inside the class, and then define it outside of the class by specifying the name of the class.
-# 71)Floyds triangle using constructor and destructor
+![Screenshot (819)](https://github.com/user-attachments/assets/cc07bd41-ec38-4ddb-91b9-d850872e9b24)
+
+# 71)Floyds triangle using constructor and destructor 
+![Screenshot (820)](https://github.com/user-attachments/assets/4aaf7246-fa93-4e70-999f-cf32430dc1aa)
+
 # 72)Decimal to binary in array using constructor
+![Screenshot (821)](https://github.com/user-attachments/assets/eff9dae3-f781-4998-8f7c-82c46b6f2873)
+
 # 73)create a class for students if no name passed then unknown should be print 
+![Screenshot (822)](https://github.com/user-attachments/assets/8737e166-fc8a-478b-a2d8-1e601e9a1ccd)
+
 # 74)class for rectangle then calculate area by the given parameters
+![image](https://github.com/user-attachments/assets/b5d90f3f-1a9b-45b0-8531-1e989c802f6d)
+
 # 75)add amount piggie bank
+![image](https://github.com/user-attachments/assets/bf615e0d-d97c-4949-83dd-9545c202f1bd)
+
 # 76)area of square and rectangle using function overloading
+![image](https://github.com/user-attachments/assets/8640f2e1-a35c-40d2-99c8-c3950ffef742)
+
 # 77)addition of two numbers using function overloading 
+![image](https://github.com/user-attachments/assets/da9c384f-11f8-40b6-8b65-4b92b3ad8db8)
+
 # 78)to read and print students simple inheritance
+![image](https://github.com/user-attachments/assets/615a18d8-9dc6-4df1-b45b-952fdd39bb68)
+
 # 79)demonstrate private simple inheritance
+![image](https://github.com/user-attachments/assets/6eb6d148-c48a-44e1-803a-70cef5e985b7)
+
 # 80)multiple inheritance
+![image](https://github.com/user-attachments/assets/e90fba9b-fe6c-46e1-a22f-75c7ffb61037)
+
 # 81)address of the variable
+![image](https://github.com/user-attachments/assets/4bce81b4-650f-4531-9031-996e96dacea9)
+
 # 82)square and circle using abstract class and pure virtual function 
+![image](https://github.com/user-attachments/assets/d443427a-2f1f-4b34-be03-ea67c730ff17)
+
 # 83)illustrate how to use this pointer
+![image](https://github.com/user-attachments/assets/c2570682-0ddf-443d-bf4b-bfd33abce03a)
+
 # 84)address of each element in the array
+![image](https://github.com/user-attachments/assets/0f72b716-1709-419e-adf9-3b6e9d43029f)
+
 # 85)multiple inheritance of sum of two numbers 
+![image](https://github.com/user-attachments/assets/2cc14699-e3ae-45ed-bafb-7f38a5291c42)
+
 # 86)find the area of multiple rectangles using array object concept
+![image](https://github.com/user-attachments/assets/6840ab2a-08f5-4c7a-ab12-e02fae4a02cf)
+
 # 87)print values using pointer
+![image](https://github.com/user-attachments/assets/ea289d05-f867-4d88-afc2-4ba03ccdac43)
+
