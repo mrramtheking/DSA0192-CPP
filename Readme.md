@@ -269,3 +269,31 @@
 # 87)print values using pointer
 ![image](https://github.com/user-attachments/assets/ea289d05-f867-4d88-afc2-4ba03ccdac43)
 
+# 88)area of circle,rectangle and volume of cylinder using multilevel inheritance
+![image](https://github.com/user-attachments/assets/8bcf47d8-ad36-428d-a6e4-f095a2239b95)
+
+# 89)employee details using array of objects
+![image](https://github.com/user-attachments/assets/496e4f04-8ef4-43ce-978f-a0b9d8a13471)
+
+# 90)find to get square and cube of number using hierachical inheritance
+![image](https://github.com/user-attachments/assets/ddd89e54-0745-494e-909b-72d0a9a3c879)
+
+# 91)largest number using pointers
+![image](https://github.com/user-attachments/assets/0e114d9e-ddd5-476a-b908-e45c91c2c5d0)
+
+# 92)insert and dispaly data entered by using pointer notation  
+![image](https://github.com/user-attachments/assets/c4d22e14-76b5-4497-8686-1db73ef25d12)
+
+# 93)bank management using multiple inheritance
+![image](https://github.com/user-attachments/assets/ffd8f499-604e-4656-8f61-b06b39beb455)
+
+# 94)student report using single inheritance
+![image](https://github.com/user-attachments/assets/7fe97093-6663-44fc-b04e-ba7b0c78dce8)
+
+# 95)employee salary using  hybrid inheritance
+![image](https://github.com/user-attachments/assets/5923bd97-a4e8-41ba-86c5-91fd3c84023b)
+
+# 96.
+
+# 97.
+
