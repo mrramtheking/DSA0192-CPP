@@ -189,14 +189,32 @@
 ![image](https://github.com/user-attachments/assets/f66badf2-7219-4c80-a732-81bcfbe2015b)
 
 # 61)sum of series using constructor overloading 
+![image](https://github.com/user-attachments/assets/a1004e4a-ed67-48ad-b3c1-897c6eae6a2b)
+
 # 62)repeated numbers right triangle 
+![image](https://github.com/user-attachments/assets/1ef96cfb-b027-48c0-9e19-707feaee70cb)
+
 # 63)reverse a number using constructor overloading
+![image](https://github.com/user-attachments/assets/b353fa25-07e5-4080-99a3-25d0b1ed5989)
+
 # 64)sum of two prime numbers
-# 65)binary to octal conversion using constructor
+![image](https://github.com/user-attachments/assets/153b7e99-ce9c-4635-99af-9e6ed77ff75f)
+
+# 65)binary to octal conversion using constructor 
+![image](https://github.com/user-attachments/assets/8c1576e0-7b65-45e0-9477-6239b99bacbd)
+
 # 66)sum of all integers between 100 to 200 divisible by 9
+![Uploading image.png…]()
+
 # 67)repeated numbers right triangle 
-# 68)area of circle, rectangle, triangle
+![Uploading image.png…]()
+
+# 68)area of circle, rectangle, triangle 
+![Uploading image.png…]()
+
 # 69)area of the cylinder, cube
+![Uploading image.png…]()
+
 # 70) Program to declare the constructor inside the class, and then define it outside of the class by specifying the name of the class.
 # 71)Floyds triangle using constructor and destructor
 # 72)Decimal to binary in array using constructor
